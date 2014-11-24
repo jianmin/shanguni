@@ -2,6 +2,7 @@ CMC (China Marathon Cloud) is a cloud-enabled, mobile-ready,
 web application.
 
 What's the stack?
+=================
 
 The idea was very simple, in essence: a single language on the 
 client and the server, allowing us to reuse components and 
@@ -18,6 +19,7 @@ Middle tier: Nginx + Node.js (Express, Socket.IO)
 Database: MongoDB
 
 Why MongoDB?
+============
 
 MongoDB is a NoSQL document-based database that uses JavaScript 
 as its query language, allowing us to complete the end-to-end 
